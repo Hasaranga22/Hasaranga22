@@ -16,7 +16,7 @@
 - 🌱 <strong>Learning Journey:</strong> Exploring <b>GitHub</b> and advancing as a developer.  
 - 👯 <strong>Collaboration Goals:</strong> Open to teaming up on innovative and exciting projects.  
 - 💬 <strong>Ask Me About:</strong> SQL, Java, PHP, HTML, CSS, JavaScript, C, and C++.  
-- ⚡ <strong>Fun Fact:</strong> Friends call me <b>Hasa</b>—and I love coding and connecting with like-minded people!
+- ⚡ <strong>Fun Fact:</strong> Friends call me <b>Hasa</b>
 
 ---
 
