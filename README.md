@@ -43,6 +43,9 @@
      <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=php&sort="> 
         <img width="40px" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png">
     </a>
+    <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=html&sort="> 
+        <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+    </a>
 </p>
 
 ---
