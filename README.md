@@ -1,5 +1,5 @@
-<p align="center">
-    <img width="200" src="https://github.com/Hasaranga22/blob/main/kathryn.png">
+<p align="center" >
+    <img src="https://img.freepik.com/premium-photo/software-engineer-digital-avatar-generative-ai_934475-8997.jpg" width="200" >
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
@@ -13,7 +13,7 @@
 
 <img width="39%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently Studying SLIIT 
+- 🔭 I’m currently Studying at SLIIT 
   
 - 🌱 I’m currently learning  GitHub
   
@@ -21,7 +21,7 @@
   
 - 💬 Ask me about Sql, Java, php , Html , CSS ,  JavaScript , C , C++
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: Friends call me Hasa .
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
