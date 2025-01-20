@@ -23,7 +23,7 @@
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> </h2>
 <p>
     <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=javascript&sort="> 
-        <img width="40px" style="margin-right=50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+        <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
     </a>
     <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=c&sort="> 
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
@@ -40,10 +40,10 @@
     <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=php&sort="> 
         <img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
     </a>
-     <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=php&sort="> 
+    <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=mysql&sort="> 
         <img width="40px" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png">
     </a>
-    <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=html&sort="> 
+    <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=java&sort="> 
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
     </a>
 </p>
@@ -73,4 +73,4 @@
 
 | ![Hasaranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasaranga22&show_icons=true&theme=tokyonight) | ![Hasaranga's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasaranga22&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaranga22&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Hasaranga22&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaranga22&layout=compact&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Hasaranga22&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
