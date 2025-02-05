@@ -46,6 +46,9 @@
     <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=java&sort="> 
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
     </a>
+    <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=c&sort="> 
+        <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg">
+    </a>
 </p>
 
 ---
