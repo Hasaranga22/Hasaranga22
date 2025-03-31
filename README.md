@@ -68,6 +68,9 @@
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png">
     </a>
     <a href="https://www.github.com/Hasaranga22"> 
+        <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg">
+    </a>
+    <a href="https://www.github.com/Hasaranga22"> 
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
     </a>
 </p>
