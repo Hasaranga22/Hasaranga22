@@ -52,6 +52,25 @@
      <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=c&sort="> 
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg">
     </a>
+    <!-- MERN Stack -->
+<p>
+  <!-- MongoDB -->
+  <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=mongodb&sort=">
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  </a>
+  <!-- Express.js -->
+  <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=javascript&sort=">
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="background-color: white; padding: 5px; border-radius: 5px;">
+  </a>
+  <!-- React.js -->
+  <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=react&sort=">
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  <!-- Node.js -->
+  <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=nodejs&sort=">
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  </a>
+</p>
 </p>
 
 ---
