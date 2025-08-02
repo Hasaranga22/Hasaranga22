@@ -52,8 +52,7 @@
      <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=c&sort="> 
         <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg">
     </a>
-    <!-- MERN Stack -->
-<p>
+    <!-- MERN Stack --
   <!-- MongoDB -->
   <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=mongodb&sort=">
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -70,7 +69,6 @@
   <a href="https://github.com/Hasaranga22?tab=repositories&q=&type=&language=nodejs&sort=">
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </a>
-</p>
 </p>
 
 ---
