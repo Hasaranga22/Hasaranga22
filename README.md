@@ -163,36 +163,6 @@ Other        42 mins         █░░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=Hasaranga22&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
----
-
-## 🔥 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/Hasaranga22/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasaranga22&repo=awesome-project-1&hide_border=true&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Hasaranga22/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasaranga22&repo=awesome-project-2&hide_border=true&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 🎵 Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=1" />
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+connect+and+build+something+amazing!;Happy+Coding!+🚀" />
