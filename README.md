@@ -103,11 +103,6 @@ const hasaranga = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hasaranga22&show_icons=true&count_private=true&hide_border=true&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" alt="Hasaranga's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasaranga22&hide_border=true&stroke=0000&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="Hasaranga's GitHub Streak" />
-</div>
-
-<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaranga22&layout=compact&hide_border=true&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hasaranga22&hide_border=true&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" />
 </div>
@@ -161,11 +156,6 @@ Other        42 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hasaranga22&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+connect+and+build+something+amazing!;Happy+Coding!+🚀" />
 </div>
 
 <div align="center">
