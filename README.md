@@ -1,103 +1,194 @@
 <div align="center">
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hasaranga&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Freelance%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20PERN%20%7C%20WordPress&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-<!-- BADGES ROW -->
-<a href="mailto:hasaranga22@gmail.com"><img src="https://img.shields.io/badge/Available_for_Hire-00C853?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="http://Hasaranga22.me/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=Hasaranga22&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+# 👋 Hasaranga | Full Stack Developer & Freelancer
+
+### Building robust web solutions with MERN & PERN stacks
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://Hasaranga22.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hasaranga22)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasaranga22@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Hasaranga22)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hasaranga22&color=blueviolet&style=flat-square)
+
 </div>
-<br/>
-<!-- ABOUT SECTION -->
-## `> whoami`
-```js
-const hasaranga = {
+
+---
+
+## 💼 About Me
+
+```javascript
+const developer = {
+    name: "Hasaranga",
     role: "Freelance Full Stack Developer",
     location: "Sri Lanka 🇱🇰",
-    education: "BSc (Hons) Computer Science — SLIIT",
-    stacks: ["MERN", "PERN"],
-    passion: "JavaScript is not just a language, it's a lifestyle ⚡",
-    available: true,
+    education: "Computer Science @ SLIIT",
+    
+    specialization: {
+        backend: ["Node.js", "Express.js", "PostgreSQL", "MongoDB"],
+        frontend: ["React.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+        mobile: ["Kotlin", "Android Development"],
+        cms: ["WordPress", "Custom Theme Development"],
+        deployment: ["Vercel", "Hostinger"]
+    },
+    
+    favoriteLanguage: "JavaScript",
+    availability: "Open for freelance projects",
+    motto: "Clean code, scalable solutions, happy clients"
 };
 ```
-> **I build performant, scalable web applications and WordPress solutions for clients worldwide.**  
-> Specialized in end-to-end development — from database architecture to pixel-perfect UIs.  
-> Whether it's a SaaS product, e-commerce platform, or a custom WordPress site, I deliver production-ready code.
-<br/>
-<!-- WHAT I DO -->
-## `> services`
+
+🎯 **Currently:** Delivering end-to-end web solutions for clients worldwide  
+🚀 **Focus:** MERN & PERN stack development with modern best practices  
+💡 **Passionate About:** Building performant, user-centric applications  
+📧 **Contact:** [hasaranga22@gmail.com](mailto:hasaranga22@gmail.com)
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### Database Management
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### CMS & WordPress
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools & Environment
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 What I Offer
+
 <table>
 <tr>
-<td width="50%" valign="top">
-### 🌐 Web Application Development
-Full-stack applications using **React.js**, **Next.js**, **Node.js**, **Express.js** with **PostgreSQL** or **MongoDB** — built for scale.
-### 🛒 WordPress Development
-Custom themes, plugins, WooCommerce stores, and performance-optimized WordPress sites on **Hostinger**.
+<td width="50%">
+
+### 🌐 Full Stack Web Apps
+- MERN Stack (MongoDB, Express, React, Node)
+- PERN Stack (PostgreSQL, Express, React, Node)
+- RESTful API Development
+- Responsive & Modern UI/UX
+
 </td>
-<td width="50%" valign="top">
+<td width="50%">
+
 ### 📱 Mobile Development
-Native Android apps with **Kotlin** — clean architecture, modern UI, and seamless API integration.
-### 🚀 Deployment & DevOps
-Production deployments on **Vercel** & **Hostinger** with CI/CD pipelines, SSL, and domain configuration.
+- Native Android Apps (Kotlin)
+- Cross-platform Solutions
+- API Integration
+- Material Design Implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 WordPress Solutions
+- Custom Theme Development
+- Plugin Integration & Customization
+- E-commerce Setup (WooCommerce)
+- Performance Optimization
+
+</td>
+<td width="50%">
+
+### 🗄️ Database Design
+- PostgreSQL Schema Design
+- MongoDB Data Modeling
+- Database Optimization
+- SQL Query Optimization
+
 </td>
 </tr>
 </table>
-<br/>
-<!-- TECH STACK -->
-## `> tech_stack`
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-| Category | Technologies |
-|:---------|:------------|
-| **Favourite Language** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff) |
-| **CMS** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=fff) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff) ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=fff) |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff) |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=fff) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff) |
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasaranga22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaranga22&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<br/>
-<!-- GITHUB STATS -->
-## `> stats`
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasaranga22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasaranga22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasaranga22&theme=tokyonight" alt="GitHub Streak"/>
 </div>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaranga22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasaranga22&theme=tokyo-night&hide_border=true&area=true" />
 </div>
-<br/>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm always interested in working on innovative projects and collaborating with forward-thinking teams. Whether you need:
+
+- ✨ A full-stack web application from scratch
+- 🔧 Backend API development & integration
+- 📱 Android mobile application
+- 🎨 WordPress website or custom theme
+- 🚀 Application deployment & optimization
+
+**I'm here to help bring your ideas to life!**
+
+### 📬 Get in Touch
+
+- **Email:** [hasaranga22@gmail.com](mailto:hasaranga22@gmail.com)
+- **Portfolio:** [Hasaranga22.me](http://Hasaranga22.me/)
+- **LinkedIn:** [linkedin.com/in/Hasaranga22](https://www.linkedin.com/in/Hasaranga22)
+
+---
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasaranga22&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![](https://github.com/Hasaranga22/Hasaranga22/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+**⭐️ If you find my work interesting, feel free to star my repositories!**
+
+![](https://hit.yhype.me/github/profile?user_id=Hasaranga22)
+
 </div>
-<br/>
-<!-- CONNECT -->
-## `> connect`
-<div align="center">
-<a href="mailto:hasaranga22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hasaranga22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.linkedin.com/in/Hasaranga22">
-  <img src="https://img.shields.io/badge/LinkedIn-Hasaranga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="http://Hasaranga22.me/">
-  <img src="https://img.shields.io/badge/Portfolio-Hasaranga22.me-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.github.com/Hasaranga22">
-  <img src="https://img.shields.io/badge/GitHub-Hasaranga22-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-</div>
-<br/>
-<div align="center">
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   💼  Open to freelance projects & collaborations            ║
- ║   📩  Drop me an email — let's build something great         ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
-</div>
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
