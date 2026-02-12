@@ -41,7 +41,7 @@ const developer = {
 🎯 **Currently:** Delivering end-to-end web solutions for clients worldwide  
 🚀 **Focus:** MERN & PERN stack development with modern best practices  
 💡 **Passionate About:** Building performant, user-centric applications  
-📧 **Contact:** [hasaranga22@gmail.com](mailto:hasaranga22@gmail.com)
+📧 **Contact:** [hasaranganavoda2025@gmail.com](mailto:hasaranganavoda2025@gmail.com)
 
 ---
 
